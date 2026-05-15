@@ -1,0 +1,58 @@
+# Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+pubspec.lock
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.metadata
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Flutter/ephemeral/
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/.symlinks/
+ios/DerivedData/
+ios/*.xcuserstate
+ios/*.pbxuser
+ios/*.mode1v3
+ios/*.mode2v3
+ios/*.perspectivev3
+ios/*sync/
+
+# Android
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/key.properties
+*.jks
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+# macOS
+.DS_Store
+
+# Others
+*.log
+*.tmp
+
+# FVM Version Cache
+.fvm/
